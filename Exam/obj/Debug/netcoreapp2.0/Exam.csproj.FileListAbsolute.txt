@@ -1,9 +1,0 @@
-C:\Users\ryan\source\repos\Exam\Exam\bin\Debug\netcoreapp2.0\Exam.deps.json
-C:\Users\ryan\source\repos\Exam\Exam\bin\Debug\netcoreapp2.0\Exam.dll
-C:\Users\ryan\source\repos\Exam\Exam\bin\Debug\netcoreapp2.0\Exam.pdb
-C:\Users\ryan\source\repos\Exam\Exam\obj\Debug\netcoreapp2.0\Exam.csprojResolveAssemblyReference.cache
-C:\Users\ryan\source\repos\Exam\Exam\obj\Debug\netcoreapp2.0\Exam.csproj.CoreCompileInputs.cache
-C:\Users\ryan\source\repos\Exam\Exam\obj\Debug\netcoreapp2.0\Exam.AssemblyInfoInputs.cache
-C:\Users\ryan\source\repos\Exam\Exam\obj\Debug\netcoreapp2.0\Exam.AssemblyInfo.cs
-C:\Users\ryan\source\repos\Exam\Exam\obj\Debug\netcoreapp2.0\Exam.dll
-C:\Users\ryan\source\repos\Exam\Exam\obj\Debug\netcoreapp2.0\Exam.pdb
